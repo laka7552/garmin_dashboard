@@ -1,0 +1,570 @@
+[
+  {
+    "date": "2026-01-23",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 60,
+    "hrv_status": null,
+    "sleep_seconds": 27540,
+    "sleep_score": 77,
+    "resting_hr": 51,
+    "sleep_avg_hr": 54.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-24",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 60,
+    "hrv_status": null,
+    "sleep_seconds": 24540,
+    "sleep_score": 77,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.1,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-25",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 60,
+    "hrv_status": null,
+    "sleep_seconds": 29820,
+    "sleep_score": 87,
+    "resting_hr": 50,
+    "sleep_avg_hr": 54.6,
+    "activities": [
+      {
+        "id": 21658265223,
+        "name": "ROUVY - Endurance Waves Lite ",
+        "type": "virtual_ride",
+        "duration_sec": 2100.0,
+        "distance_m": 17003.69921875,
+        "avg_hr": 123.0,
+        "max_hr": 136.0,
+        "calories": 265.0,
+        "avg_power": 132.0,
+        "normalized_power": 135.0,
+        "stress_score": 25.3,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 25.3,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 22620,
+    "sleep_score": 72,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.5,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-27",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 25620,
+    "sleep_score": 77,
+    "resting_hr": 50,
+    "sleep_avg_hr": 54.6,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-28",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 26640,
+    "sleep_score": 77,
+    "resting_hr": 52,
+    "sleep_avg_hr": 57.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-29",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 27360,
+    "sleep_score": 74,
+    "resting_hr": 50,
+    "sleep_avg_hr": 53.6,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-01-30",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 27240,
+    "sleep_score": 82,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.9,
+    "activities": [
+      {
+        "id": 21712763605,
+        "name": "ROUVY - Fat Max | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3917.360107421875,
+        "distance_m": 21879.099609375,
+        "avg_hr": 134.0,
+        "max_hr": 150.0,
+        "calories": 390.0,
+        "avg_power": 136.0,
+        "normalized_power": 138.0,
+        "stress_score": 49.3,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 49.3,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": 23580,
+    "sleep_score": 63,
+    "resting_hr": 54,
+    "sleep_avg_hr": 60.6,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-01",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 55,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 55,
+    "sleep_avg_hr": 55,
+    "activities": [
+      {
+        "id": 21732793254,
+        "name": "ROUVY - Pacific Coast Highway | USA",
+        "type": "virtual_ride",
+        "duration_sec": 3609.0,
+        "distance_m": 26025.0390625,
+        "avg_hr": 128.0,
+        "max_hr": 148.0,
+        "calories": 431.0,
+        "avg_power": 125.0,
+        "normalized_power": 129.0,
+        "stress_score": 39.7,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 39.7,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 54,
+    "hrv_status": null,
+    "sleep_seconds": 26636,
+    "sleep_score": 75,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.1,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-03",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 55,
+    "hrv_status": null,
+    "sleep_seconds": 27840,
+    "sleep_score": 82,
+    "resting_hr": 50,
+    "sleep_avg_hr": 53.7,
+    "activities": [
+      {
+        "id": 21753453156,
+        "name": "ROUVY - Forty On, Twenty Off | Push Harder",
+        "type": "virtual_ride",
+        "duration_sec": 3026.492919921875,
+        "distance_m": 11195.1298828125,
+        "avg_hr": 140.0,
+        "max_hr": 169.0,
+        "calories": 419.0,
+        "avg_power": 146.0,
+        "normalized_power": 164.0,
+        "stress_score": 53.8,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 53.8,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 54,
+    "hrv_status": null,
+    "sleep_seconds": 24660,
+    "sleep_score": 62,
+    "resting_hr": 54,
+    "sleep_avg_hr": 59.0,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-05",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 53,
+    "hrv_status": null,
+    "sleep_seconds": 28260,
+    "sleep_score": 81,
+    "resting_hr": 54,
+    "sleep_avg_hr": 58.1,
+    "activities": [
+      {
+        "id": 21775007208,
+        "name": "ROUVY - Fat Max | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3037.8291015625,
+        "distance_m": 20127.33984375,
+        "avg_hr": 134.0,
+        "max_hr": 148.0,
+        "calories": 390.0,
+        "avg_power": 136.0,
+        "normalized_power": 138.0,
+        "stress_score": 38.2,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 38.2,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 52,
+    "hrv_status": null,
+    "sleep_seconds": 24600,
+    "sleep_score": 70,
+    "resting_hr": 56,
+    "sleep_avg_hr": 60.9,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-07",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 53,
+    "hrv_status": null,
+    "sleep_seconds": 29880,
+    "sleep_score": 80,
+    "resting_hr": 52,
+    "sleep_avg_hr": 55.3,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-08",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 52,
+    "hrv_status": null,
+    "sleep_seconds": 26100,
+    "sleep_score": 75,
+    "resting_hr": 57,
+    "sleep_avg_hr": 61.3,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-09",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 52,
+    "hrv_status": null,
+    "sleep_seconds": 28560,
+    "sleep_score": 74,
+    "resting_hr": 51,
+    "sleep_avg_hr": 57.6,
+    "activities": [
+      {
+        "id": 21811516757,
+        "name": "K\u00f6tschach-Mauthen Klassischer Langlauf",
+        "type": "cross_country_skiing_ws",
+        "duration_sec": 4075.180908203125,
+        "distance_m": 13272.41015625,
+        "avg_hr": 130.0,
+        "max_hr": 177.0,
+        "calories": 572.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 66.2,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 66.2,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 53,
+    "hrv_status": null,
+    "sleep_seconds": 27780,
+    "sleep_score": 84,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-11",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": 26640,
+    "sleep_score": 84,
+    "resting_hr": 49,
+    "sleep_avg_hr": 53.5,
+    "activities": [
+      {
+        "id": 21836809734,
+        "name": "ROUVY - Fat Burner 2 | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3600.0009765625,
+        "distance_m": 16335.509765625,
+        "avg_hr": 130.0,
+        "max_hr": 145.0,
+        "calories": 475.0,
+        "avg_power": 138.0,
+        "normalized_power": 140.0,
+        "stress_score": 46.6,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 46.6,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-12",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": 28920,
+    "sleep_score": 63,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.2,
+    "activities": [
+      {
+        "id": 21847385809,
+        "name": "ROUVY - Attack Mode | Increase your FTP with Lidl-Trek",
+        "type": "virtual_ride",
+        "duration_sec": 2579.9990234375,
+        "distance_m": 13290.33984375,
+        "avg_hr": 146.0,
+        "max_hr": 174.0,
+        "calories": 380.0,
+        "avg_power": 154.0,
+        "normalized_power": 182.0,
+        "stress_score": 56.5,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 56.5,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 25800,
+    "sleep_score": 77,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.7,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-14",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 23280,
+    "sleep_score": 73,
+    "resting_hr": 52,
+    "sleep_avg_hr": 55.9,
+    "activities": [
+      {
+        "id": 21866202604,
+        "name": "ROUVY - Fat Burner 2 | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3672.612060546875,
+        "distance_m": 30029.08984375,
+        "avg_hr": 127.0,
+        "max_hr": 139.0,
+        "calories": 475.0,
+        "avg_power": 138.0,
+        "normalized_power": 141.0,
+        "stress_score": 48.3,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 48.3,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 28260,
+    "sleep_score": 89,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.7,
+    "activities": [
+      {
+        "id": 21875734826,
+        "name": "ROUVY - The Long Ride | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 4827.4130859375,
+        "distance_m": 34543.62109375,
+        "avg_hr": 125.0,
+        "max_hr": 142.0,
+        "calories": 606.0,
+        "avg_power": 133.0,
+        "normalized_power": 135.0,
+        "stress_score": 58.2,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 58.2,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-16",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 28108,
+    "sleep_score": 83,
+    "resting_hr": 52,
+    "sleep_avg_hr": 53.7,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-17",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 62,
+    "hrv_status": null,
+    "sleep_seconds": 24829,
+    "sleep_score": 80,
+    "resting_hr": 47,
+    "sleep_avg_hr": 51.6,
+    "activities": [
+      {
+        "id": 21898775496,
+        "name": "ROUVY - Attack Mode | Increase your FTP with Lidl-Trek",
+        "type": "virtual_ride",
+        "duration_sec": 2614.9951171875,
+        "distance_m": 13279.150390625,
+        "avg_hr": 139.0,
+        "max_hr": 169.0,
+        "calories": 380.0,
+        "avg_power": 154.0,
+        "normalized_power": 182.0,
+        "stress_score": 57.3,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 57.3,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 26160,
+    "sleep_score": 79,
+    "resting_hr": 49,
+    "sleep_avg_hr": 54.2,
+    "activities": [
+      {
+        "id": 21908401359,
+        "name": "Krafttraining",
+        "type": "strength_training",
+        "duration_sec": 1267.3070068359375,
+        "distance_m": 0.0,
+        "avg_hr": 97.0,
+        "max_hr": 134.0,
+        "calories": 105.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 11.5,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 11.5,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 21960,
+    "sleep_score": 67,
+    "resting_hr": 52,
+    "sleep_avg_hr": 55.2,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  }
+]
