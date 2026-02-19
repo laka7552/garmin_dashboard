@@ -9,6 +9,10 @@ on:
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
 
+# Give the runner permission to commit back to the repo
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
