@@ -34,7 +34,7 @@ LTHR_BPM  = 170     # Your Lactate Threshold Heart Rate in bpm
             # If unsure about LTHR: use ~90% of your max HR
 # ══════════════════════════════════════════════════════════════
 
-DAYS_BACK   = 28
+DAYS_BACK   = 60
 OUTPUT_FILE = "garmin_history.json"
 SLEEP_SEC   = 1.0   # pause between API calls to avoid rate-limiting
 
