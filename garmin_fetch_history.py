@@ -29,8 +29,8 @@ except ImportError:
 EMAIL     = os.getenv("GARMIN_EMAIL",    "your@email.com")
 PASSWORD  = os.getenv("GARMIN_PASSWORD", "yourpassword")
 
-FTP_WATTS = 250     # Your Functional Threshold Power in watts
-LTHR_BPM  = 168     # Your Lactate Threshold Heart Rate in bpm
+FTP_WATTS = 205     # Your Functional Threshold Power in watts
+LTHR_BPM  = 170     # Your Lactate Threshold Heart Rate in bpm
             # If unsure about LTHR: use ~90% of your max HR
 # ══════════════════════════════════════════════════════════════
 
