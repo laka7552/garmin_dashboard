@@ -1,0 +1,52 @@
+name: Garmin Daily Fetch
+
+on:
+  schedule:
+    # Runs every day at 07:30 UTC — adjust to your timezone
+    # UTC 07:30 = CET 08:30 (winter) / CEST 09:30 (summer)
+    - cron: "30 7 * * *"
+
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 1 · Check out the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a token that can push commits back to the repo
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2 · Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # 3 · Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4 · Run the fetch script
+      #     Credentials are injected from GitHub Secrets — never visible in logs
+      - name: Fetch Garmin data
+        env:
+          GARMIN_EMAIL:    ${{ secrets.GARMIN_EMAIL }}
+          GARMIN_PASSWORD: ${{ secrets.GARMIN_PASSWORD }}
+        run: python garmin_fetch_history.py
+
+      # 5 · Commit and push the updated JSON back to the repo
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add garmin_history.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet || git commit -m "chore: update garmin data $(date +'%Y-%m-%d')"
+          git push
