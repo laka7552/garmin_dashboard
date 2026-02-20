@@ -1,35 +1,5 @@
 [
   {
-    "date": "2025-12-22",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 26940,
-    "sleep_score": 71,
-    "resting_hr": 55,
-    "sleep_avg_hr": 58.8,
-    "activities": [
-      {
-        "id": 21323187884,
-        "name": "Nassfeld - Hermagor Skifahren",
-        "type": "resort_skiing",
-        "duration_sec": 23433.4453125,
-        "distance_m": 80369.5625,
-        "avg_hr": 94.0,
-        "max_hr": 153.0,
-        "calories": 1586.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 199.0,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 199.0,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2025-12-23",
     "hrv_last_night": null,
     "hrv_weekly_avg": 59,
@@ -1166,6 +1136,36 @@
     "sleep_score": 67,
     "resting_hr": 52,
     "sleep_avg_hr": 55.2,
+    "activities": [
+      {
+        "id": 21919977616,
+        "name": "ROUVY - Fat Burner 2 | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3611.949951171875,
+        "distance_m": 24943.529296875,
+        "avg_hr": 131.0,
+        "max_hr": 146.0,
+        "calories": 471.0,
+        "avg_power": 137.0,
+        "normalized_power": 140.0,
+        "stress_score": 46.8,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 46.8,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 60,
+    "hrv_status": null,
+    "sleep_seconds": 24360,
+    "sleep_score": 75,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.5,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
