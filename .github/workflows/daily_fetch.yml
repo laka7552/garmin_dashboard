@@ -41,6 +41,9 @@ jobs:
       #     Credentials are injected from GitHub Secrets — never visible in logs
       - name: Fetch Garmin data
         env:
+          GMAIL_SENDER:    ${{ secrets.GMAIL_SENDER }}
+          GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
+          GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
           GARMIN_EMAIL:    ${{ secrets.GARMIN_EMAIL }}
           GARMIN_PASSWORD: ${{ secrets.GARMIN_PASSWORD }}
         run: python garmin_fetch_history.py
