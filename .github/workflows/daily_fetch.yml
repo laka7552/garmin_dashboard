@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every day at 07:30 UTC — adjust to your timezone
     # UTC 07:30 = CET 08:30 (winter) / CEST 09:30 (summer)
-    - cron: "30 7 * * *"
+    - cron: "30 6 * * *"
 
   # Allow manual trigger from GitHub Actions tab
   workflow_dispatch:
