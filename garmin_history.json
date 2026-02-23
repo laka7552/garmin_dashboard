@@ -1,18 +1,5 @@
 [
   {
-    "date": "2025-12-25",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 26580,
-    "sleep_score": 48,
-    "resting_hr": 55,
-    "sleep_avg_hr": 62.6,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2025-12-26",
     "hrv_last_night": null,
     "hrv_weekly_avg": 57,
@@ -1166,6 +1153,50 @@
     "sleep_score": 73,
     "resting_hr": 52,
     "sleep_avg_hr": 57.6,
+    "activities": [
+      {
+        "id": 21948102899,
+        "name": "ROUVY - Col de la Madeleine (South) [TDF 2025] | France",
+        "type": "virtual_ride",
+        "duration_sec": 5315.0,
+        "distance_m": 16990.419921875,
+        "avg_hr": 128.0,
+        "max_hr": 145.0,
+        "calories": 661.0,
+        "avg_power": 130.0,
+        "normalized_power": 133.0,
+        "stress_score": 62.1,
+        "stress_method": "TSS"
+      },
+      {
+        "id": 21946772877,
+        "name": "ROUVY - Col de la Madeleine (South) [TDF 2025] | France",
+        "type": "virtual_ride",
+        "duration_sec": 58.0,
+        "distance_m": 146.10000610351562,
+        "avg_hr": 97.0,
+        "max_hr": 108.0,
+        "calories": 6.0,
+        "avg_power": 105.0,
+        "normalized_power": 115.0,
+        "stress_score": 0.5,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 62.6,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 28140,
+    "sleep_score": 84,
+    "resting_hr": 50,
+    "sleep_avg_hr": 52.9,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
