@@ -1,18 +1,5 @@
 [
   {
-    "date": "2025-12-28",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 52,
-    "hrv_status": null,
-    "sleep_seconds": 22260,
-    "sleep_score": 40,
-    "resting_hr": 57,
-    "sleep_avg_hr": 72.7,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2025-12-29",
     "hrv_last_night": null,
     "hrv_weekly_avg": 53,
@@ -1214,6 +1201,19 @@
     "sleep_score": 63,
     "resting_hr": 53,
     "sleep_avg_hr": 57.9,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-02-26",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 28020,
+    "sleep_score": 82,
+    "resting_hr": 50,
+    "sleep_avg_hr": 53.6,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
