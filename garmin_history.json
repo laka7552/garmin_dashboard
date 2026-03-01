@@ -1,35 +1,5 @@
 [
   {
-    "date": "2025-12-31",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 51,
-    "hrv_status": null,
-    "sleep_seconds": 23820,
-    "sleep_score": 72,
-    "resting_hr": 54,
-    "sleep_avg_hr": 58.8,
-    "activities": [
-      {
-        "id": 21403113511,
-        "name": "Bietigheim-Bissingen Laufen",
-        "type": "running",
-        "duration_sec": 3144.89501953125,
-        "distance_m": 10631.7900390625,
-        "avg_hr": 170.0,
-        "max_hr": 183.0,
-        "calories": 753.0,
-        "avg_power": 368.0,
-        "normalized_power": 374.0,
-        "stress_score": 290.8,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 290.8,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-01",
     "hrv_last_night": null,
     "hrv_weekly_avg": 47,
@@ -1248,6 +1218,36 @@
     "sleep_score": 68,
     "resting_hr": 54,
     "sleep_avg_hr": 60.3,
+    "activities": [
+      {
+        "id": 22017517066,
+        "name": "Stubaier Gletscher Skifahren",
+        "type": "resort_skiing",
+        "duration_sec": 27402.689453125,
+        "distance_m": 67427.65625,
+        "avg_hr": 97.0,
+        "max_hr": 156.0,
+        "calories": 1938.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 247.8,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 247.8,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 62,
+    "hrv_status": null,
+    "sleep_seconds": 29820,
+    "sleep_score": 60,
+    "resting_hr": 54,
+    "sleep_avg_hr": 61.3,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
