@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-01-05",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 50,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 58,
-    "sleep_avg_hr": 58,
-    "activities": [
-      {
-        "id": 21471901347,
-        "name": "Florencia Virtuelles Radfahren",
-        "type": "virtual_ride",
-        "duration_sec": 2189.0,
-        "distance_m": 15325.2900390625,
-        "avg_hr": 137.0,
-        "max_hr": 178.0,
-        "calories": 289.0,
-        "avg_power": 132.0,
-        "normalized_power": 176.3506098725938,
-        "stress_score": 45.0,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 45.0,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-06",
     "hrv_last_night": null,
     "hrv_weekly_avg": 51,
@@ -1282,6 +1252,36 @@
     "sleep_score": 79,
     "resting_hr": 49,
     "sleep_avg_hr": 53.6,
+    "activities": [
+      {
+        "id": 22073602727,
+        "name": "ROUVY - Fun With Fundamentals | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3611.0,
+        "distance_m": 30123.8203125,
+        "avg_hr": 126.0,
+        "max_hr": 137.0,
+        "calories": 471.0,
+        "avg_power": 137.0,
+        "normalized_power": 137.0,
+        "stress_score": 44.8,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 44.8,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 66,
+    "hrv_status": null,
+    "sleep_seconds": 26100,
+    "sleep_score": 75,
+    "resting_hr": 52,
+    "sleep_avg_hr": 56.1,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
