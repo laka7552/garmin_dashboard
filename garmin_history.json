@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-01-10",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 57,
-    "hrv_status": null,
-    "sleep_seconds": 28620,
-    "sleep_score": 75,
-    "resting_hr": 49,
-    "sleep_avg_hr": 55.5,
-    "activities": [
-      {
-        "id": 21499723336,
-        "name": "Wien Laufen",
-        "type": "running",
-        "duration_sec": 2758.31396484375,
-        "distance_m": 7687.330078125,
-        "avg_hr": 147.0,
-        "max_hr": 162.0,
-        "calories": 554.0,
-        "avg_power": 329.0,
-        "normalized_power": 338.0,
-        "stress_score": 208.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 208.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-11",
     "hrv_last_night": null,
     "hrv_weekly_avg": 58,
@@ -1316,6 +1286,36 @@
     "sleep_score": 80,
     "resting_hr": 51,
     "sleep_avg_hr": 54.0,
+    "activities": [
+      {
+        "id": 22130088311,
+        "name": "ROUVY - OverUnders",
+        "type": "virtual_ride",
+        "duration_sec": 3612.98388671875,
+        "distance_m": 21433.240234375,
+        "avg_hr": 139.0,
+        "max_hr": 166.0,
+        "calories": 537.0,
+        "avg_power": 156.0,
+        "normalized_power": 177.0,
+        "stress_score": 74.8,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 74.8,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-11",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 64,
+    "hrv_status": null,
+    "sleep_seconds": 27840,
+    "sleep_score": 65,
+    "resting_hr": 53,
+    "sleep_avg_hr": 58.4,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
