@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-01-11",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 58,
-    "hrv_status": null,
-    "sleep_seconds": 29520,
-    "sleep_score": 66,
-    "resting_hr": 50,
-    "sleep_avg_hr": 55.0,
-    "activities": [
-      {
-        "id": 21512539600,
-        "name": "ROUVY - Fat Max | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 2999.9990234375,
-        "distance_m": 24278.380859375,
-        "avg_hr": 130.0,
-        "max_hr": 143.0,
-        "calories": 402.0,
-        "avg_power": 140.0,
-        "normalized_power": 142.0,
-        "stress_score": 40.0,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 40.0,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-12",
     "hrv_last_night": null,
     "hrv_weekly_avg": 59,
@@ -1316,6 +1286,36 @@
     "sleep_score": 65,
     "resting_hr": 53,
     "sleep_avg_hr": 58.4,
+    "activities": [
+      {
+        "id": 22139635591,
+        "name": "Krafttraining",
+        "type": "strength_training",
+        "duration_sec": 1297.5460205078125,
+        "distance_m": 0.0,
+        "avg_hr": 95.0,
+        "max_hr": 120.0,
+        "calories": 100.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 11.3,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 11.3,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 63,
+    "hrv_status": null,
+    "sleep_seconds": 24684,
+    "sleep_score": 78,
+    "resting_hr": 49,
+    "sleep_avg_hr": 54.5,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
