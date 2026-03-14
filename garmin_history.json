@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-01-13",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 24060,
-    "sleep_score": 79,
-    "resting_hr": 48,
-    "sleep_avg_hr": 51.0,
-    "activities": [
-      {
-        "id": 21535379812,
-        "name": "ROUVY - Redline Dance | Get Fitter",
-        "type": "virtual_ride",
-        "duration_sec": 2700.0,
-        "distance_m": 19576.880859375,
-        "avg_hr": 133.0,
-        "max_hr": 158.0,
-        "calories": 382.0,
-        "avg_power": 148.0,
-        "normalized_power": 161.0,
-        "stress_score": 46.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 46.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-14",
     "hrv_last_night": null,
     "hrv_weekly_avg": 59,
@@ -1316,6 +1286,19 @@
     "sleep_score": 81,
     "resting_hr": 51,
     "sleep_avg_hr": 54.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-14",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 63,
+    "hrv_status": null,
+    "sleep_seconds": 27420,
+    "sleep_score": 73,
+    "resting_hr": 52,
+    "sleep_avg_hr": 59.3,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
