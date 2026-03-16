@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-01-15",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 25800,
-    "sleep_score": 80,
-    "resting_hr": 51,
-    "sleep_avg_hr": 54.5,
-    "activities": [
-      {
-        "id": 21557672718,
-        "name": "ROUVY - Fat Max | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3090.52294921875,
-        "distance_m": 22140.5,
-        "avg_hr": 129.0,
-        "max_hr": 142.0,
-        "calories": 399.0,
-        "avg_power": 139.0,
-        "normalized_power": 141.0,
-        "stress_score": 40.6,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 40.6,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-01-16",
     "hrv_last_night": null,
     "hrv_weekly_avg": 61,
@@ -1316,6 +1286,36 @@
     "sleep_score": 78,
     "resting_hr": 47,
     "sleep_avg_hr": 53.4,
+    "activities": [
+      {
+        "id": 22180185510,
+        "name": "ROUVY - Active Recovery 2",
+        "type": "virtual_ride",
+        "duration_sec": 3600.0,
+        "distance_m": 21790.810546875,
+        "avg_hr": 119.0,
+        "max_hr": 127.0,
+        "calories": 420.0,
+        "avg_power": 122.0,
+        "normalized_power": 122.0,
+        "stress_score": 35.4,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 35.4,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 65,
+    "hrv_status": null,
+    "sleep_seconds": 27660,
+    "sleep_score": 87,
+    "resting_hr": 49,
+    "sleep_avg_hr": 52.2,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
