@@ -1,311 +1,5 @@
 [
   {
-    "date": "2026-01-17",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 62,
-    "hrv_status": null,
-    "sleep_seconds": 29700,
-    "sleep_score": 78,
-    "resting_hr": 50,
-    "sleep_avg_hr": 53.9,
-    "activities": [
-      {
-        "id": 21573069075,
-        "name": "Wien Laufen",
-        "type": "running",
-        "duration_sec": 2133.659912109375,
-        "distance_m": 5875.10986328125,
-        "avg_hr": 141.0,
-        "max_hr": 155.0,
-        "calories": 409.0,
-        "avg_power": 340.0,
-        "normalized_power": 344.0,
-        "stress_score": 166.9,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 166.9,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-01-18",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 63,
-    "hrv_status": null,
-    "sleep_seconds": 31860,
-    "sleep_score": 94,
-    "resting_hr": 48,
-    "sleep_avg_hr": 52.7,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-19",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 64,
-    "hrv_status": null,
-    "sleep_seconds": 23220,
-    "sleep_score": 67,
-    "resting_hr": 48,
-    "sleep_avg_hr": 51.8,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-20",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 62,
-    "hrv_status": null,
-    "sleep_seconds": 26580,
-    "sleep_score": 87,
-    "resting_hr": 50,
-    "sleep_avg_hr": 54.1,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-21",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 61,
-    "hrv_status": null,
-    "sleep_seconds": 22500,
-    "sleep_score": 73,
-    "resting_hr": 52,
-    "sleep_avg_hr": 55.9,
-    "activities": [
-      {
-        "id": 21620955907,
-        "name": "Schwimmbad",
-        "type": "lap_swimming",
-        "duration_sec": 2004.155029296875,
-        "distance_m": 1525.0,
-        "avg_hr": 123.0,
-        "max_hr": 154.0,
-        "calories": 315.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 29.1,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 29.1,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
-    "date": "2026-01-22",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 61,
-    "hrv_status": null,
-    "sleep_seconds": 30120,
-    "sleep_score": 87,
-    "resting_hr": 51,
-    "sleep_avg_hr": 53.8,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-23",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 27540,
-    "sleep_score": 77,
-    "resting_hr": 51,
-    "sleep_avg_hr": 54.4,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-24",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 24540,
-    "sleep_score": 77,
-    "resting_hr": 51,
-    "sleep_avg_hr": 55.1,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-25",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 29820,
-    "sleep_score": 87,
-    "resting_hr": 50,
-    "sleep_avg_hr": 54.6,
-    "activities": [
-      {
-        "id": 21658265223,
-        "name": "ROUVY - Endurance Waves Lite ",
-        "type": "virtual_ride",
-        "duration_sec": 2100.0,
-        "distance_m": 17003.69921875,
-        "avg_hr": 123.0,
-        "max_hr": 136.0,
-        "calories": 265.0,
-        "avg_power": 132.0,
-        "normalized_power": 135.0,
-        "stress_score": 25.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 25.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-01-26",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 22620,
-    "sleep_score": 72,
-    "resting_hr": 51,
-    "sleep_avg_hr": 55.5,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-27",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 58,
-    "hrv_status": null,
-    "sleep_seconds": 25620,
-    "sleep_score": 77,
-    "resting_hr": 50,
-    "sleep_avg_hr": 54.6,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-28",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 26640,
-    "sleep_score": 77,
-    "resting_hr": 52,
-    "sleep_avg_hr": 57.4,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-29",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 59,
-    "hrv_status": null,
-    "sleep_seconds": 27360,
-    "sleep_score": 74,
-    "resting_hr": 50,
-    "sleep_avg_hr": 53.6,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-01-30",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 58,
-    "hrv_status": null,
-    "sleep_seconds": 27240,
-    "sleep_score": 82,
-    "resting_hr": 52,
-    "sleep_avg_hr": 56.9,
-    "activities": [
-      {
-        "id": 21712763605,
-        "name": "ROUVY - Fat Max | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3917.360107421875,
-        "distance_m": 21879.099609375,
-        "avg_hr": 134.0,
-        "max_hr": 150.0,
-        "calories": 390.0,
-        "avg_power": 136.0,
-        "normalized_power": 138.0,
-        "stress_score": 49.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 49.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-01-31",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 56,
-    "hrv_status": null,
-    "sleep_seconds": 23580,
-    "sleep_score": 63,
-    "resting_hr": 54,
-    "sleep_avg_hr": 60.6,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-01",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 55,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 55,
-    "sleep_avg_hr": 55,
-    "activities": [
-      {
-        "id": 21732793254,
-        "name": "ROUVY - Pacific Coast Highway | USA",
-        "type": "virtual_ride",
-        "duration_sec": 3609.0,
-        "distance_m": 26025.0390625,
-        "avg_hr": 128.0,
-        "max_hr": 148.0,
-        "calories": 431.0,
-        "avg_power": 125.0,
-        "normalized_power": 129.0,
-        "stress_score": 39.7,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 39.7,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-02-02",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 54,
-    "hrv_status": null,
-    "sleep_seconds": 26636,
-    "sleep_score": 75,
-    "resting_hr": 52,
-    "sleep_avg_hr": 56.1,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2026-02-03",
     "hrv_last_night": null,
     "hrv_weekly_avg": 55,
@@ -1316,6 +1010,278 @@
     "sleep_score": 80,
     "resting_hr": 49,
     "sleep_avg_hr": 53.2,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-18",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 66,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 54,
+    "sleep_avg_hr": 54,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-19",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 65,
+    "hrv_status": null,
+    "sleep_seconds": 26940,
+    "sleep_score": 82,
+    "resting_hr": 49,
+    "sleep_avg_hr": 54.0,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-20",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 64,
+    "hrv_status": null,
+    "sleep_seconds": 28620,
+    "sleep_score": 80,
+    "resting_hr": 50,
+    "sleep_avg_hr": 54.0,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-21",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 64,
+    "hrv_status": null,
+    "sleep_seconds": 26700,
+    "sleep_score": 80,
+    "resting_hr": 51,
+    "sleep_avg_hr": 54.6,
+    "activities": [
+      {
+        "id": 22246724951,
+        "name": "ROUVY - Fat Burner 2 | Level Up",
+        "type": "virtual_ride",
+        "duration_sec": 3600.0,
+        "distance_m": 21652.029296875,
+        "avg_hr": 127.0,
+        "max_hr": 141.0,
+        "calories": 478.0,
+        "avg_power": 139.0,
+        "normalized_power": 141.0,
+        "stress_score": 47.3,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 47.3,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-22",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 64,
+    "hrv_status": null,
+    "sleep_seconds": 30600,
+    "sleep_score": 67,
+    "resting_hr": 52,
+    "sleep_avg_hr": 54.5,
+    "activities": [
+      {
+        "id": 22259469750,
+        "name": "Wien Laufen",
+        "type": "running",
+        "duration_sec": 2018.375,
+        "distance_m": 5688.27001953125,
+        "avg_hr": 138.0,
+        "max_hr": 152.0,
+        "calories": 396.0,
+        "avg_power": 334.0,
+        "normalized_power": 340.0,
+        "stress_score": 154.2,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 154.2,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 62,
+    "hrv_status": null,
+    "sleep_seconds": 25200,
+    "sleep_score": 73,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.1,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-24",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 24120,
+    "sleep_score": 73,
+    "resting_hr": 49,
+    "sleep_avg_hr": 56.0,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-25",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 62,
+    "hrv_status": null,
+    "sleep_seconds": 15780,
+    "sleep_score": 56,
+    "resting_hr": 49,
+    "sleep_avg_hr": 52.0,
+    "activities": [
+      {
+        "id": 22291158801,
+        "name": "Sitges Laufen",
+        "type": "running",
+        "duration_sec": 1801.3800048828125,
+        "distance_m": 5099.27978515625,
+        "avg_hr": 142.0,
+        "max_hr": 158.0,
+        "calories": 364.0,
+        "avg_power": 320.0,
+        "normalized_power": 318.0,
+        "stress_score": 120.4,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 120.4,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-03-26",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 16740,
+    "sleep_score": 50,
+    "resting_hr": 54,
+    "sleep_avg_hr": 61.0,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-27",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 61,
+    "hrv_status": null,
+    "sleep_seconds": 28793,
+    "sleep_score": 82,
+    "resting_hr": 49,
+    "sleep_avg_hr": 56.2,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-28",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 25740,
+    "sleep_score": 53,
+    "resting_hr": 55,
+    "sleep_avg_hr": 64.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-29",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 27900,
+    "sleep_score": 69,
+    "resting_hr": 53,
+    "sleep_avg_hr": 59.7,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-30",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 17732,
+    "sleep_score": 62,
+    "resting_hr": 53,
+    "sleep_avg_hr": 58.3,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-03-31",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 28440,
+    "sleep_score": 87,
+    "resting_hr": 48,
+    "sleep_avg_hr": 52.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-01",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 51,
+    "sleep_avg_hr": 51,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-02",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-03",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
