@@ -1,190 +1,5 @@
 [
   {
-    "date": "2026-02-03",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 55,
-    "hrv_status": null,
-    "sleep_seconds": 27840,
-    "sleep_score": 82,
-    "resting_hr": 50,
-    "sleep_avg_hr": 53.7,
-    "activities": [
-      {
-        "id": 21753453156,
-        "name": "ROUVY - Forty On, Twenty Off | Push Harder",
-        "type": "virtual_ride",
-        "duration_sec": 3026.492919921875,
-        "distance_m": 11195.1298828125,
-        "avg_hr": 140.0,
-        "max_hr": 169.0,
-        "calories": 419.0,
-        "avg_power": 146.0,
-        "normalized_power": 164.0,
-        "stress_score": 53.8,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 53.8,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-02-04",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 54,
-    "hrv_status": null,
-    "sleep_seconds": 24660,
-    "sleep_score": 62,
-    "resting_hr": 54,
-    "sleep_avg_hr": 59.0,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-05",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 53,
-    "hrv_status": null,
-    "sleep_seconds": 28260,
-    "sleep_score": 81,
-    "resting_hr": 54,
-    "sleep_avg_hr": 58.1,
-    "activities": [
-      {
-        "id": 21775007208,
-        "name": "ROUVY - Fat Max | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3037.8291015625,
-        "distance_m": 20127.33984375,
-        "avg_hr": 134.0,
-        "max_hr": 148.0,
-        "calories": 390.0,
-        "avg_power": 136.0,
-        "normalized_power": 138.0,
-        "stress_score": 38.2,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 38.2,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
-    "date": "2026-02-06",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 52,
-    "hrv_status": null,
-    "sleep_seconds": 24600,
-    "sleep_score": 70,
-    "resting_hr": 56,
-    "sleep_avg_hr": 60.9,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-07",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 53,
-    "hrv_status": null,
-    "sleep_seconds": 29880,
-    "sleep_score": 80,
-    "resting_hr": 52,
-    "sleep_avg_hr": 55.3,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-08",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 52,
-    "hrv_status": null,
-    "sleep_seconds": 26100,
-    "sleep_score": 75,
-    "resting_hr": 57,
-    "sleep_avg_hr": 61.3,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-09",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 52,
-    "hrv_status": null,
-    "sleep_seconds": 28560,
-    "sleep_score": 74,
-    "resting_hr": 51,
-    "sleep_avg_hr": 57.6,
-    "activities": [
-      {
-        "id": 21811516757,
-        "name": "K\u00f6tschach-Mauthen Klassischer Langlauf",
-        "type": "cross_country_skiing_ws",
-        "duration_sec": 4075.180908203125,
-        "distance_m": 13272.41015625,
-        "avg_hr": 130.0,
-        "max_hr": 177.0,
-        "calories": 572.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 66.2,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 66.2,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
-    "date": "2026-02-10",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 53,
-    "hrv_status": null,
-    "sleep_seconds": 27780,
-    "sleep_score": 84,
-    "resting_hr": 52,
-    "sleep_avg_hr": 56.4,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
-    "date": "2026-02-11",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 56,
-    "hrv_status": null,
-    "sleep_seconds": 26640,
-    "sleep_score": 84,
-    "resting_hr": 49,
-    "sleep_avg_hr": 53.5,
-    "activities": [
-      {
-        "id": 21836809734,
-        "name": "ROUVY - Fat Burner 2 | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3600.0009765625,
-        "distance_m": 16335.509765625,
-        "avg_hr": 130.0,
-        "max_hr": 145.0,
-        "calories": 475.0,
-        "avg_power": 138.0,
-        "normalized_power": 140.0,
-        "stress_score": 46.6,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 46.6,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-12",
     "hrv_last_night": null,
     "hrv_weekly_avg": 56,
@@ -1282,6 +1097,123 @@
     "sleep_score": null,
     "resting_hr": null,
     "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-04",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-05",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-06",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-07",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-08",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-09",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 55,
+    "sleep_avg_hr": 55,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-10",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": 19980,
+    "sleep_score": 61,
+    "resting_hr": 54,
+    "sleep_avg_hr": 62.4,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-11",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": 28740,
+    "sleep_score": 84,
+    "resting_hr": 50,
+    "sleep_avg_hr": 53.3,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-12",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": 27213,
+    "sleep_score": 65,
+    "resting_hr": 53,
+    "sleep_avg_hr": 58.6,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
