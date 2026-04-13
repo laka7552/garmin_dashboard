@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-12",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 56,
-    "hrv_status": null,
-    "sleep_seconds": 28920,
-    "sleep_score": 63,
-    "resting_hr": 52,
-    "sleep_avg_hr": 56.2,
-    "activities": [
-      {
-        "id": 21847385809,
-        "name": "ROUVY - Attack Mode | Increase your FTP with Lidl-Trek",
-        "type": "virtual_ride",
-        "duration_sec": 2579.9990234375,
-        "distance_m": 13290.33984375,
-        "avg_hr": 146.0,
-        "max_hr": 174.0,
-        "calories": 380.0,
-        "avg_power": 154.0,
-        "normalized_power": 182.0,
-        "stress_score": 56.5,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 56.5,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-13",
     "hrv_last_night": null,
     "hrv_weekly_avg": 58,
@@ -1214,6 +1184,19 @@
     "sleep_score": 65,
     "resting_hr": 53,
     "sleep_avg_hr": 58.6,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-13",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 59,
+    "hrv_status": null,
+    "sleep_seconds": 24360,
+    "sleep_score": 78,
+    "resting_hr": 51,
+    "sleep_avg_hr": 53.9,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
