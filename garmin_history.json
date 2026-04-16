@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-15",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 61,
-    "hrv_status": null,
-    "sleep_seconds": 28260,
-    "sleep_score": 89,
-    "resting_hr": 51,
-    "sleep_avg_hr": 55.7,
-    "activities": [
-      {
-        "id": 21875734826,
-        "name": "ROUVY - The Long Ride | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 4827.4130859375,
-        "distance_m": 34543.62109375,
-        "avg_hr": 125.0,
-        "max_hr": 142.0,
-        "calories": 606.0,
-        "avg_power": 133.0,
-        "normalized_power": 135.0,
-        "stress_score": 58.2,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 58.2,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-16",
     "hrv_last_night": null,
     "hrv_weekly_avg": 61,
@@ -1173,6 +1143,19 @@
   },
   {
     "date": "2026-04-15",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": 25020,
+    "sleep_score": 57,
+    "resting_hr": 54,
+    "sleep_avg_hr": 60.6,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-16",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
