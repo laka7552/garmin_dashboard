@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-17",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 62,
-    "hrv_status": null,
-    "sleep_seconds": 24829,
-    "sleep_score": 80,
-    "resting_hr": 47,
-    "sleep_avg_hr": 51.6,
-    "activities": [
-      {
-        "id": 21898775496,
-        "name": "ROUVY - Attack Mode | Increase your FTP with Lidl-Trek",
-        "type": "virtual_ride",
-        "duration_sec": 2614.9951171875,
-        "distance_m": 13279.150390625,
-        "avg_hr": 139.0,
-        "max_hr": 169.0,
-        "calories": 380.0,
-        "avg_power": 154.0,
-        "normalized_power": 182.0,
-        "stress_score": 57.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 57.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-18",
     "hrv_last_night": null,
     "hrv_weekly_avg": 61,
@@ -1157,12 +1127,42 @@
   {
     "date": "2026-04-17",
     "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": 21060,
+    "sleep_score": 57,
+    "resting_hr": 56,
+    "sleep_avg_hr": 61.3,
+    "activities": [
+      {
+        "id": 22558764768,
+        "name": "Detroit Laufen",
+        "type": "running",
+        "duration_sec": 1739.7750244140625,
+        "distance_m": 4947.77978515625,
+        "avg_hr": 134.0,
+        "max_hr": 152.0,
+        "calories": 331.0,
+        "avg_power": 326.0,
+        "normalized_power": 322.0,
+        "stress_score": 119.2,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 119.2,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-04-18",
+    "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
     "sleep_seconds": null,
     "sleep_score": null,
-    "resting_hr": 57,
-    "sleep_avg_hr": 57,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
