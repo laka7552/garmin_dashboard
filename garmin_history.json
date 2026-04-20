@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-19",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 61,
-    "hrv_status": null,
-    "sleep_seconds": 21960,
-    "sleep_score": 67,
-    "resting_hr": 52,
-    "sleep_avg_hr": 55.2,
-    "activities": [
-      {
-        "id": 21919977616,
-        "name": "ROUVY - Fat Burner 2 | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3611.949951171875,
-        "distance_m": 24943.529296875,
-        "avg_hr": 131.0,
-        "max_hr": 146.0,
-        "calories": 471.0,
-        "avg_power": 137.0,
-        "normalized_power": 140.0,
-        "stress_score": 46.8,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 46.8,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-20",
     "hrv_last_night": null,
     "hrv_weekly_avg": 60,
@@ -1139,6 +1109,36 @@
   },
   {
     "date": "2026-04-19",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 55,
+    "hrv_status": null,
+    "sleep_seconds": 29503,
+    "sleep_score": 79,
+    "resting_hr": 54,
+    "sleep_avg_hr": 56.7,
+    "activities": [
+      {
+        "id": 22582250997,
+        "name": "Philadelphia Laufen",
+        "type": "running",
+        "duration_sec": 1823.60595703125,
+        "distance_m": 5117.93994140625,
+        "avg_hr": 144.0,
+        "max_hr": 166.0,
+        "calories": 362.0,
+        "avg_power": 314.0,
+        "normalized_power": 318.0,
+        "stress_score": 121.9,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 121.9,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-04-20",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
