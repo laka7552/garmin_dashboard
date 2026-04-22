@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-21",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 28260,
-    "sleep_score": 84,
-    "resting_hr": 50,
-    "sleep_avg_hr": 55.6,
-    "activities": [
-      {
-        "id": 21939299150,
-        "name": "ROUVY - Fat Burner 2 | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3600.0,
-        "distance_m": 19340.609375,
-        "avg_hr": 128.0,
-        "max_hr": 142.0,
-        "calories": 478.0,
-        "avg_power": 139.0,
-        "normalized_power": 141.0,
-        "stress_score": 47.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 47.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-22",
     "hrv_last_night": null,
     "hrv_weekly_avg": 60,
@@ -1139,6 +1109,19 @@
   },
   {
     "date": "2026-04-21",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-22",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
