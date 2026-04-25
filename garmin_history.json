@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-24",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 60,
-    "hrv_status": null,
-    "sleep_seconds": 28320,
-    "sleep_score": 85,
-    "resting_hr": 47,
-    "sleep_avg_hr": 52.4,
-    "activities": [
-      {
-        "id": 21972793667,
-        "name": "ROUVY - 4x4min HIT",
-        "type": "virtual_ride",
-        "duration_sec": 3181.0009765625,
-        "distance_m": 23843.939453125,
-        "avg_hr": 135.0,
-        "max_hr": 166.0,
-        "calories": 450.0,
-        "avg_power": 148.0,
-        "normalized_power": 176.0,
-        "stress_score": 65.1,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 65.1,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-02-25",
     "hrv_last_night": null,
     "hrv_weekly_avg": 60,
@@ -1109,12 +1079,25 @@
   {
     "date": "2026-04-24",
     "hrv_last_night": null,
+    "hrv_weekly_avg": 56,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 53,
+    "sleep_avg_hr": 53,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-25",
+    "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
     "sleep_seconds": null,
     "sleep_score": null,
-    "resting_hr": 56,
-    "sleep_avg_hr": 56,
+    "resting_hr": 53,
+    "sleep_avg_hr": 53,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
