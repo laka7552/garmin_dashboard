@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-02-27",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 63,
-    "hrv_status": null,
-    "sleep_seconds": 19920,
-    "sleep_score": 66,
-    "resting_hr": 49,
-    "sleep_avg_hr": 52.1,
-    "activities": [
-      {
-        "id": 22006512804,
-        "name": "Stubaier Gletscher Skifahren",
-        "type": "resort_skiing",
-        "duration_sec": 17759.9375,
-        "distance_m": 48072.3203125,
-        "avg_hr": 98.0,
-        "max_hr": 156.0,
-        "calories": 1286.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 163.9,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 163.9,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2026-02-28",
     "hrv_last_night": null,
     "hrv_weekly_avg": 62,
@@ -1098,6 +1068,19 @@
     "sleep_score": 70,
     "resting_hr": 50,
     "sleep_avg_hr": 53.2,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-04-28",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 27900,
+    "sleep_score": 82,
+    "resting_hr": 51,
+    "sleep_avg_hr": 55.6,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
