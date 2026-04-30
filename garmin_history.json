@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-01",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 62,
-    "hrv_status": null,
-    "sleep_seconds": 29820,
-    "sleep_score": 60,
-    "resting_hr": 53,
-    "sleep_avg_hr": 61.3,
-    "activities": [
-      {
-        "id": 22029096203,
-        "name": "Stubaier Gletscher Skifahren",
-        "type": "resort_skiing",
-        "duration_sec": 17267.63671875,
-        "distance_m": 66028.09375,
-        "avg_hr": 93.0,
-        "max_hr": 150.0,
-        "calories": 1154.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 143.5,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 143.5,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2026-03-02",
     "hrv_last_night": null,
     "hrv_weekly_avg": 63,
@@ -1062,8 +1032,38 @@
     "hrv_status": null,
     "sleep_seconds": null,
     "sleep_score": null,
-    "resting_hr": null,
-    "sleep_avg_hr": null,
+    "resting_hr": 53,
+    "sleep_avg_hr": 53,
+    "activities": [
+      {
+        "id": 22704038669,
+        "name": "Wien Laufen",
+        "type": "running",
+        "duration_sec": 1961.469970703125,
+        "distance_m": 5703.68017578125,
+        "avg_hr": 143.0,
+        "max_hr": 161.0,
+        "calories": 399.0,
+        "avg_power": 337.0,
+        "normalized_power": 342.0,
+        "stress_score": 151.6,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 151.6,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 58,
+    "hrv_status": null,
+    "sleep_seconds": 24840,
+    "sleep_score": 78,
+    "resting_hr": 52,
+    "sleep_avg_hr": 55.2,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
