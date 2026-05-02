@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-03",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 65,
-    "hrv_status": null,
-    "sleep_seconds": 30120,
-    "sleep_score": 86,
-    "resting_hr": 47,
-    "sleep_avg_hr": 51.7,
-    "activities": [
-      {
-        "id": 22050922341,
-        "name": "ROUVY - 5x5min HIT",
-        "type": "virtual_ride",
-        "duration_sec": 3626.947998046875,
-        "distance_m": 15938.26953125,
-        "avg_hr": 137.0,
-        "max_hr": 172.0,
-        "calories": 523.0,
-        "avg_power": 152.0,
-        "normalized_power": 181.0,
-        "stress_score": 78.5,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 78.5,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-03-04",
     "hrv_last_night": null,
     "hrv_weekly_avg": 67,
@@ -1064,6 +1034,36 @@
     "sleep_score": 69,
     "resting_hr": 51,
     "sleep_avg_hr": 55.3,
+    "activities": [
+      {
+        "id": 22724578429,
+        "name": "Wien Rennradfahren",
+        "type": "road_biking",
+        "duration_sec": 6078.7529296875,
+        "distance_m": 41257.08984375,
+        "avg_hr": 141.0,
+        "max_hr": 173.0,
+        "calories": 901.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 116.2,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 116.2,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-05-02",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 62,
+    "hrv_status": null,
+    "sleep_seconds": 29520,
+    "sleep_score": 80,
+    "resting_hr": 51,
+    "sleep_avg_hr": 54.9,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
