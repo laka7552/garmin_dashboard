@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-05",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 67,
-    "hrv_status": null,
-    "sleep_seconds": 29340,
-    "sleep_score": 79,
-    "resting_hr": 49,
-    "sleep_avg_hr": 53.6,
-    "activities": [
-      {
-        "id": 22073602727,
-        "name": "ROUVY - Fun With Fundamentals | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3611.0,
-        "distance_m": 30123.8203125,
-        "avg_hr": 126.0,
-        "max_hr": 137.0,
-        "calories": 471.0,
-        "avg_power": 137.0,
-        "normalized_power": 137.0,
-        "stress_score": 44.8,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 44.8,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-03-06",
     "hrv_last_night": null,
     "hrv_weekly_avg": 66,
@@ -1064,6 +1034,36 @@
     "sleep_score": 90,
     "resting_hr": 50,
     "sleep_avg_hr": 54.0,
+    "activities": [
+      {
+        "id": 22750736304,
+        "name": "Schwarzau im Gebirge Wandern",
+        "type": "hiking",
+        "duration_sec": 21633.73046875,
+        "distance_m": 16181.33984375,
+        "avg_hr": 96.0,
+        "max_hr": 143.0,
+        "calories": 1505.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 191.6,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 191.6,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 63,
+    "hrv_status": null,
+    "sleep_seconds": 27180,
+    "sleep_score": 79,
+    "resting_hr": 50,
+    "sleep_avg_hr": 54.7,
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
