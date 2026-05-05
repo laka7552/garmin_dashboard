@@ -1,18 +1,5 @@
 [
   {
-    "date": "2026-03-06",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 66,
-    "hrv_status": null,
-    "sleep_seconds": 26100,
-    "sleep_score": 75,
-    "resting_hr": 41,
-    "sleep_avg_hr": 56.1,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2026-03-07",
     "hrv_last_night": null,
     "hrv_weekly_avg": 67,
@@ -1067,5 +1054,35 @@
     "activities": [],
     "daily_tss": 0,
     "tss_methods": []
+  },
+  {
+    "date": "2026-05-05",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": 65,
+    "hrv_status": null,
+    "sleep_seconds": 27360,
+    "sleep_score": 87,
+    "resting_hr": 49,
+    "sleep_avg_hr": 52.6,
+    "activities": [
+      {
+        "id": 22768855414,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1458.02099609375,
+        "distance_m": 7203.08984375,
+        "avg_hr": 100.0,
+        "max_hr": 120.0,
+        "calories": 133.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 14.0,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 14.0,
+    "tss_methods": [
+      "hrTSS"
+    ]
   }
 ]
