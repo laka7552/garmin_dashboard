@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-15",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 63,
-    "hrv_status": null,
-    "sleep_seconds": 23580,
-    "sleep_score": 78,
-    "resting_hr": 47,
-    "sleep_avg_hr": 53.4,
-    "activities": [
-      {
-        "id": 22180185510,
-        "name": "ROUVY - Active Recovery 2",
-        "type": "virtual_ride",
-        "duration_sec": 3600.0,
-        "distance_m": 21790.810546875,
-        "avg_hr": 119.0,
-        "max_hr": 127.0,
-        "calories": 420.0,
-        "avg_power": 122.0,
-        "normalized_power": 122.0,
-        "stress_score": 35.4,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 35.4,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-03-16",
     "hrv_last_night": null,
     "hrv_weekly_avg": 65,
@@ -986,6 +956,19 @@
   },
   {
     "date": "2026-05-13",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-05-14",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
