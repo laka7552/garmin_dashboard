@@ -1,18 +1,5 @@
 [
   {
-    "date": "2026-03-19",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 65,
-    "hrv_status": null,
-    "sleep_seconds": 26940,
-    "sleep_score": 82,
-    "resting_hr": 49,
-    "sleep_avg_hr": 54.0,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2026-03-20",
     "hrv_last_night": null,
     "hrv_weekly_avg": 64,
@@ -969,6 +956,36 @@
   },
   {
     "date": "2026-05-17",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 22915754962,
+        "name": "ROUVY - Endurance | Get Fitter",
+        "type": "virtual_ride",
+        "duration_sec": 2270.032958984375,
+        "distance_m": 17696.66015625,
+        "avg_hr": 128.0,
+        "max_hr": 144.0,
+        "calories": 283.0,
+        "avg_power": 123.0,
+        "normalized_power": 125.0,
+        "stress_score": 23.4,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 23.4,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-05-18",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
