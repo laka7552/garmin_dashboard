@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-03-21",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 64,
-    "hrv_status": null,
-    "sleep_seconds": 26700,
-    "sleep_score": 80,
-    "resting_hr": 51,
-    "sleep_avg_hr": 54.6,
-    "activities": [
-      {
-        "id": 22246724951,
-        "name": "ROUVY - Fat Burner 2 | Level Up",
-        "type": "virtual_ride",
-        "duration_sec": 3600.0,
-        "distance_m": 21652.029296875,
-        "avg_hr": 127.0,
-        "max_hr": 141.0,
-        "calories": 478.0,
-        "avg_power": 139.0,
-        "normalized_power": 141.0,
-        "stress_score": 47.3,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 47.3,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-03-22",
     "hrv_last_night": null,
     "hrv_weekly_avg": 64,
@@ -995,6 +965,20 @@
     "sleep_avg_hr": null,
     "activities": [
       {
+        "id": 22937282488,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1612.9659423828125,
+        "distance_m": 7086.85009765625,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 239.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      },
+      {
         "id": 22931472118,
         "name": "Wien Radfahren",
         "type": "cycling",
@@ -1009,6 +993,19 @@
         "stress_method": null
       }
     ],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-05-20",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
     "daily_tss": 0,
     "tss_methods": []
   }
