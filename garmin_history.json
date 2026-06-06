@@ -1,18 +1,5 @@
 [
   {
-    "date": "2026-04-07",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": null,
-    "sleep_avg_hr": null,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2026-04-08",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1237,6 +1224,36 @@
   },
   {
     "date": "2026-06-05",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 72,
+    "sleep_avg_hr": 72,
+    "activities": [
+      {
+        "id": 23142878716,
+        "name": "Wien Laufen",
+        "type": "running",
+        "duration_sec": 2868.510009765625,
+        "distance_m": 8049.16015625,
+        "avg_hr": 136.0,
+        "max_hr": 147.0,
+        "calories": 555.0,
+        "avg_power": 319.0,
+        "normalized_power": 321.0,
+        "stress_score": 195.4,
+        "stress_method": "TSS"
+      }
+    ],
+    "daily_tss": 195.4,
+    "tss_methods": [
+      "TSS"
+    ]
+  },
+  {
+    "date": "2026-06-06",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
