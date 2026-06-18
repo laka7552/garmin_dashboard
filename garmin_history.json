@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-04-19",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 55,
-    "hrv_status": null,
-    "sleep_seconds": 29503,
-    "sleep_score": 79,
-    "resting_hr": 54,
-    "sleep_avg_hr": 56.7,
-    "activities": [
-      {
-        "id": 22582250997,
-        "name": "Philadelphia Laufen",
-        "type": "running",
-        "duration_sec": 1823.60595703125,
-        "distance_m": 5117.93994140625,
-        "avg_hr": 144.0,
-        "max_hr": 166.0,
-        "calories": 362.0,
-        "avg_power": 314.0,
-        "normalized_power": 318.0,
-        "stress_score": 121.9,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 121.9,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-04-20",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1393,6 +1363,34 @@
     "resting_hr": null,
     "sleep_avg_hr": null,
     "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-06-18",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 23290499353,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1432.884033203125,
+        "distance_m": 6595.14990234375,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 229.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
     "daily_tss": 0,
     "tss_methods": []
   }
