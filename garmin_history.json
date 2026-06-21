@@ -1,18 +1,5 @@
 [
   {
-    "date": "2026-04-22",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": null,
-    "sleep_avg_hr": null,
-    "activities": [],
-    "daily_tss": 0,
-    "tss_methods": []
-  },
-  {
     "date": "2026-04-23",
     "hrv_last_night": null,
     "hrv_weekly_avg": 56,
@@ -1426,6 +1413,50 @@
   },
   {
     "date": "2026-06-20",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 81,
+    "sleep_avg_hr": 81,
+    "activities": [
+      {
+        "id": 23316077352,
+        "name": "Wien Freiwasserschwimmen",
+        "type": "open_water_swimming",
+        "duration_sec": 943.4180297851562,
+        "distance_m": 492.80999755859375,
+        "avg_hr": 116.0,
+        "max_hr": 131.0,
+        "calories": 138.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 12.2,
+        "stress_method": "hrTSS"
+      },
+      {
+        "id": 23315779008,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 2120.029052734375,
+        "distance_m": 7927.0,
+        "avg_hr": 93.0,
+        "max_hr": 113.0,
+        "calories": 157.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": 17.6,
+        "stress_method": "hrTSS"
+      }
+    ],
+    "daily_tss": 29.8,
+    "tss_methods": [
+      "hrTSS"
+    ]
+  },
+  {
+    "date": "2026-06-21",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
