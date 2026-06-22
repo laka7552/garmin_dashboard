@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-04-23",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 56,
-    "hrv_status": null,
-    "sleep_seconds": 32640,
-    "sleep_score": 85,
-    "resting_hr": 51,
-    "sleep_avg_hr": 54.5,
-    "activities": [
-      {
-        "id": 22630463941,
-        "name": "Washington Laufen",
-        "type": "running",
-        "duration_sec": 1715.199951171875,
-        "distance_m": 4901.83984375,
-        "avg_hr": 132.0,
-        "max_hr": 154.0,
-        "calories": 323.0,
-        "avg_power": 319.0,
-        "normalized_power": 315.0,
-        "stress_score": 112.5,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 112.5,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-04-24",
     "hrv_last_night": null,
     "hrv_weekly_avg": 56,
@@ -1465,6 +1435,34 @@
     "resting_hr": null,
     "sleep_avg_hr": null,
     "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-06-22",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 23335522333,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1521.25,
+        "distance_m": 7555.330078125,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 210.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
     "daily_tss": 0,
     "tss_methods": []
   }
