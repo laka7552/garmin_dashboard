@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": 62,
-    "hrv_status": null,
-    "sleep_seconds": 29160,
-    "sleep_score": 90,
-    "resting_hr": 50,
-    "sleep_avg_hr": 54.0,
-    "activities": [
-      {
-        "id": 22750736304,
-        "name": "Schwarzau im Gebirge Wandern",
-        "type": "hiking",
-        "duration_sec": 21633.73046875,
-        "distance_m": 16181.33984375,
-        "avg_hr": 96.0,
-        "max_hr": 143.0,
-        "calories": 1505.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 191.6,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 191.6,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2026-05-04",
     "hrv_last_night": null,
     "hrv_weekly_avg": 63,
@@ -1484,6 +1454,34 @@
     "resting_hr": null,
     "sleep_avg_hr": null,
     "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-07-02",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 23449342751,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1357.720947265625,
+        "distance_m": 7547.56982421875,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 236.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
     "daily_tss": 0,
     "tss_methods": []
   }
