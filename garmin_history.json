@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 79,
-    "sleep_avg_hr": 79,
-    "activities": [
-      {
-        "id": 22995483096,
-        "name": "Krafttraining",
-        "type": "strength_training",
-        "duration_sec": 1246.657958984375,
-        "distance_m": 0.0,
-        "avg_hr": 98.0,
-        "max_hr": 124.0,
-        "calories": 106.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 11.5,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 11.5,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2026-05-25",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1450,6 +1420,19 @@
   },
   {
     "date": "2026-07-22",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": 70,
+    "sleep_avg_hr": 70,
+    "activities": [],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-07-23",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
     "hrv_status": null,
