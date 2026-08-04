@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 72,
-    "sleep_avg_hr": 72,
-    "activities": [
-      {
-        "id": 23142878716,
-        "name": "Wien Laufen",
-        "type": "running",
-        "duration_sec": 2868.510009765625,
-        "distance_m": 8049.16015625,
-        "avg_hr": 136.0,
-        "max_hr": 147.0,
-        "calories": 555.0,
-        "avg_power": 319.0,
-        "normalized_power": 321.0,
-        "stress_score": 195.4,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 195.4,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-06-06",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1264,7 +1234,64 @@
     "sleep_score": null,
     "resting_hr": null,
     "sleep_avg_hr": null,
-    "activities": [],
+    "activities": [
+      {
+        "id": 23844185450,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1547.137939453125,
+        "distance_m": 7039.0,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 231.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      },
+      {
+        "id": 23844185370,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1469.4649658203125,
+        "distance_m": 7022.8701171875,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 198.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-08-04",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 23844185474,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1471.1190185546875,
+        "distance_m": 7531.4599609375,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 213.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
     "daily_tss": 0,
     "tss_methods": []
   }
