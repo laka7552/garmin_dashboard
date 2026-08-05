@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-06-06",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 57,
-    "sleep_avg_hr": 57,
-    "activities": [
-      {
-        "id": 23151630921,
-        "name": "Krafttraining",
-        "type": "strength_training",
-        "duration_sec": 1286.488037109375,
-        "distance_m": 0.0,
-        "avg_hr": 93.0,
-        "max_hr": 164.0,
-        "calories": 99.0,
-        "avg_power": null,
-        "normalized_power": null,
-        "stress_score": 10.7,
-        "stress_method": "hrTSS"
-      }
-    ],
-    "daily_tss": 10.7,
-    "tss_methods": [
-      "hrTSS"
-    ]
-  },
-  {
     "date": "2026-06-07",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1278,6 +1248,20 @@
     "sleep_avg_hr": null,
     "activities": [
       {
+        "id": 23850679587,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 1689.7020263671875,
+        "distance_m": 7186.18994140625,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 224.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      },
+      {
         "id": 23844185474,
         "name": "Wien Radfahren",
         "type": "cycling",
@@ -1292,6 +1276,19 @@
         "stress_method": null
       }
     ],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-08-05",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [],
     "daily_tss": 0,
     "tss_methods": []
   }
