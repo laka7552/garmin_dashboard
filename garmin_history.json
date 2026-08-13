@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-06-14",
-    "hrv_last_night": null,
-    "hrv_weekly_avg": null,
-    "hrv_status": null,
-    "sleep_seconds": null,
-    "sleep_score": null,
-    "resting_hr": 126,
-    "sleep_avg_hr": 126,
-    "activities": [
-      {
-        "id": 23248417407,
-        "name": "Wien Laufen",
-        "type": "running",
-        "duration_sec": 1716.8170166015625,
-        "distance_m": 5130.5400390625,
-        "avg_hr": 139.0,
-        "max_hr": 162.0,
-        "calories": 347.0,
-        "avg_power": 361.0,
-        "normalized_power": 372.0,
-        "stress_score": 157.0,
-        "stress_method": "TSS"
-      }
-    ],
-    "daily_tss": 157.0,
-    "tss_methods": [
-      "TSS"
-    ]
-  },
-  {
     "date": "2026-06-15",
     "hrv_last_night": null,
     "hrv_weekly_avg": null,
@@ -1280,6 +1250,20 @@
     "sleep_avg_hr": null,
     "activities": [
       {
+        "id": 23950945403,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 2466.56103515625,
+        "distance_m": 10625.5498046875,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 313.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      },
+      {
         "id": 23944882518,
         "name": "Wien Radfahren",
         "type": "cycling",
@@ -1288,6 +1272,34 @@
         "avg_hr": null,
         "max_hr": null,
         "calories": 287.0,
+        "avg_power": null,
+        "normalized_power": null,
+        "stress_score": null,
+        "stress_method": null
+      }
+    ],
+    "daily_tss": 0,
+    "tss_methods": []
+  },
+  {
+    "date": "2026-08-13",
+    "hrv_last_night": null,
+    "hrv_weekly_avg": null,
+    "hrv_status": null,
+    "sleep_seconds": null,
+    "sleep_score": null,
+    "resting_hr": null,
+    "sleep_avg_hr": null,
+    "activities": [
+      {
+        "id": 23957759546,
+        "name": "Wien Radfahren",
+        "type": "cycling",
+        "duration_sec": 2222.508056640625,
+        "distance_m": 10543.0400390625,
+        "avg_hr": null,
+        "max_hr": null,
+        "calories": 294.0,
         "avg_power": null,
         "normalized_power": null,
         "stress_score": null,
